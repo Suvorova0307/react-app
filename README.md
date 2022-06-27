@@ -1,2 +1,1 @@
-# react-api
-react app for fun
+# react-app
