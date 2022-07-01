@@ -1,0 +1,9 @@
+@import-normalize;
+@import 'scss-reset/_reset.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $font;
+}
